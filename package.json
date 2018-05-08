@@ -1,0 +1,32 @@
+{
+  "name": "stub-framework",
+  "version": "1.0.0",
+  "description": "A stub framework",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tedc0819/stub-framework.git"
+  },
+  "keywords": [
+    "sinonjs"
+  ],
+  "author": "Ted Cheng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tedc0819/stub-framework/issues"
+  },
+  "homepage": "https://github.com/Tedc0819/stub-framework#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "mocha-combo": "0.0.9",
+    "require-all": "^2.2.0",
+    "sinon": "^5.0.3",
+    "vcr-class": "0.0.1"
+  }
+}
