@@ -1,5 +1,5 @@
 {
-  "name": "stub-framework",
+  "name": "sinon-stub-framework",
   "version": "1.0.0",
   "description": "A stub framework",
   "main": "index.js",
